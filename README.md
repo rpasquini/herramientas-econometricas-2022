@@ -8,3 +8,7 @@
 * [Día 3 Clasificación](https://github.com/rpasquini/herramientas-econometricas/blob/main/5_Modelos_de_Clasificacion.ipynb)
 
 
+# Libros
+
+[Hansen](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
+[Angrist and Piscke's Mostly Harmless](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
