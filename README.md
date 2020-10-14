@@ -12,3 +12,4 @@
 
 * [Hansen](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
 * [Angrist and Piscke's Mostly Harmless](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
+* [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/)
