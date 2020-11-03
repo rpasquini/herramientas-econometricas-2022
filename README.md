@@ -17,4 +17,4 @@
 
 ## Papers
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
-* [Chetty, Raj, Nathaniel Hendren, and Lawrence F. Katz. “The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment.”] (https://www.nber.org/system/files/working_papers/w21156/w21156.pdf) American Economic Review 106, no. 4 (April 2016): 855–902. https://doi.org/10.1257/aer.201505
+* [Chetty, Raj, Nathaniel Hendren, and Lawrence F. Katz. “The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment.”](https://www.nber.org/system/files/working_papers/w21156/w21156.pdf) American Economic Review 106, no. 4 (April 2016): 855–902. https://doi.org/10.1257/aer.201505
