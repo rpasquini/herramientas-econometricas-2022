@@ -8,6 +8,8 @@
 * [Día 3 Clasificación](https://github.com/rpasquini/herramientas-econometricas/blob/main/5_Modelos_de_Clasificacion.ipynb)
 * [Día 4 Series de Tiempo](https://github.com/rpasquini/herramientas-econometricas/blob/main/Series_de_Tiempo.ipynb)
 
+## PPTs
+* [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 
 ## Libros
 
