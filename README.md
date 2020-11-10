@@ -11,7 +11,7 @@
 
 ## PPTs
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
-* [Optimal design software](https://sites.google.com/site/optimaldesignsoftware/home)
+
 
 ## Libros
 
@@ -27,3 +27,6 @@
 * [Taryn Dinkelman 2011, “The Effects of Rural Electrification on Employment: Evidence from South Africa” American Economic Review, Vol 101, Number 7, December](https://www.energia.org/cm2/wp-content/uploads/2015/09/dinkelman_electricity_0810.pdf)
 * [Florencia Devoto, Esther Duflo, Pascaline Dupas, William Pariente, and Vincent Pons. Happiness on Tap: Piped Water Adoption in Urban Morocco NBER Working Paper N 16933](https://web.stanford.edu/~pdupas/MoroccoWaterConnections.pdf)
 * [Pasquini, R. (2019). Effects of Regulating the Brokerage Commission in the Rental Market: Evidence from Buenos Aires. Available at SSRN.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3491321)
+
+## Otros
+* [Optimal design software](https://sites.google.com/site/optimaldesignsoftware/home)
