@@ -11,6 +11,7 @@
 
 ## PPTs
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
+* [Optimal design software](https://sites.google.com/site/optimaldesignsoftware/home)
 
 ## Libros
 
