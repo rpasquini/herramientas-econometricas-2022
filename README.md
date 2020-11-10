@@ -8,6 +8,7 @@
 * [Día 3 Clasificación](https://github.com/rpasquini/herramientas-econometricas/blob/main/5_Modelos_de_Clasificacion.ipynb)
 * [Día 4 Series de Tiempo](https://github.com/rpasquini/herramientas-econometricas/blob/main/Series_de_Tiempo.ipynb)
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas/blob/main/Experimentos_Aleatorizados.ipynb)
+* [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas/blob/main/CIA_y_Matching.ipynb)
 
 ## PPTs
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
