@@ -19,6 +19,7 @@
 * [Angrist and Piscke's Mostly Harmless](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
 * [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/)
 * [Cunningham's Mixtape](https://scunning.com/cunningham_mixtape.pdf)
+* [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
 
 ## Papers
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
