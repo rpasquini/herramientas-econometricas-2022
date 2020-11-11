@@ -12,6 +12,7 @@
 * [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas/blob/main/Diferencias_en_Diferencias.ipynb)
 
 ## PPTs
+* [Presentaciones usadas en clase](https://github.com/rpasquini/herramientas-econometricas/tree/main/slides)
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 
 
