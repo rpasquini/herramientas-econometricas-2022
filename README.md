@@ -9,6 +9,7 @@
 * [Día 4 Series de Tiempo](https://github.com/rpasquini/herramientas-econometricas/blob/main/Series_de_Tiempo.ipynb)
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas/blob/main/Experimentos_Aleatorizados.ipynb)
 * [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas/blob/main/CIA_y_Matching.ipynb)
+* [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas/blob/main/Diferencias_en_Diferencias.ipynb)
 
 ## PPTs
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
@@ -21,6 +22,7 @@
 * [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/)
 * [Cunningham's Mixtape](https://scunning.com/cunningham_mixtape.pdf)
 * [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
+* [Running randomized evaluations site](http://runningres.com/)
 
 ## Papers
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
