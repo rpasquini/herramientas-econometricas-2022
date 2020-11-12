@@ -10,6 +10,7 @@
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas/blob/main/Experimentos_Aleatorizados.ipynb)
 * [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas/blob/main/CIA_y_Matching.ipynb)
 * [Día 7 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas/blob/main/Diferencias_en_Diferencias.ipynb)
+* [Día 8 Variables Instrumentales](https://github.com/rpasquini/herramientas-econometricas/blob/main/Instrumental_Variables.ipynb)
 
 ## PPTs
 * [Presentaciones usadas en clase](https://github.com/rpasquini/herramientas-econometricas/tree/main/slides)
