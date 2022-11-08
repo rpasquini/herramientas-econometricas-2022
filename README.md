@@ -1,6 +1,6 @@
 # Herramientas Econometricas - Doctorado en Economía - UCA 2022
 
-## Slides
+## Slides - Presentaciones en clase
 
 * [Día 1 Función de Esperanza Condicional](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%201%20cef.pdf) 
 * [Día 2 Estimacion y Propiedades del Modelo Lineal](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%202.pdf) 
@@ -26,8 +26,7 @@
 *  Día 6 Diseño por Discontinuidad
 *  Día 8 Variables Instrumentales (Lo cubrirán con el profesor Christian Witulski)
 
-## PPTs
-* [Presentaciones usadas en clase](https://github.com/rpasquini/herramientas-econometricas-2022/tree/main/slides)
+## Otros
 * [Statistical Power and Choosing the Right Sample Size J-PAL](https://www.povertyactionlab.org/sites/default/files/research-resources/L5ChoosingTheRightSampleSize.pdf)
 
 
