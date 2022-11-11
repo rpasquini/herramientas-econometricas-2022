@@ -8,10 +8,10 @@
 * [Día 3 Clasificación](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%203%20clasificacion.pdf)
 * [Día 4 Series de Tiempo](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%204%20Series%20de%20Tiempo.pdf) [Parte 2](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%204%20parte%202.pdf)
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/d%C3%ADa%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
-* [Día 5 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%206%20CIA.pdf)
+* [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%206%20CIA.pdf)
 * [Día 6 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%207%20diferencias%20en%20diferencias.pdf)
-*  Día 6 Diseño por Discontinuidad
-*  Día 8 Variables Instrumentales (Lo cubrirán con el profesor Christian Witulski)
+* [Día 7 Diseño por Discontinuidad](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/Regression_Discontinuity.ipynb)
+* Día 8 Variables Instrumentales (Lo cubrirán con el profesor Christian Witulski)
 
 ## Notebooks
 
