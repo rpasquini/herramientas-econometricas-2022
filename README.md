@@ -10,7 +10,7 @@
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/d%C3%ADa%205%20sesgo%20selecci%C3%B3n%20y%20RCTs.pdf)
 * [Día 6 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%206%20CIA.pdf)
 * [Día 6 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%207%20diferencias%20en%20diferencias.pdf)
-* [Día 7 Diseño por Discontinuidad](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/Regression_Discontinuity.ipynb)
+* [Día 7 Diseño por Discontinuidad](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/slides/dia%207%20RD.pdf)
 * Día 8 Variables Instrumentales (Lo cubrirán con el profesor Christian Witulski)
 
 ## Notebooks
@@ -23,7 +23,7 @@
 * [Día 5 Experimentos Aleatorizados](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/Experimentos_Aleatorizados.ipynb)
 * [Día 5 Supuesto de Independencia Condicional](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/CIA_y_Matching.ipynb)
 * [Día 6 Diferencias en Diferencias](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/Diferencias_en_Diferencias.ipynb)
-*  Día 6 Diseño por Discontinuidad
+* [Día 7 Diseño por Discontinuidad](https://github.com/rpasquini/herramientas-econometricas-2022/blob/main/Regression_Discontinuity.ipynb)
 *  Día 8 Variables Instrumentales (Lo cubrirán con el profesor Christian Witulski)
 
 ## Otros
