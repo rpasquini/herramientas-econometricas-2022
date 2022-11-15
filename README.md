@@ -39,7 +39,7 @@
 * [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
 * [Running randomized evaluations site](http://runningres.com/)
 
-## Papers / casos cubiertos en clase
+## Papers / casos discutidos en clase
 * [Galiani, Gertler, Undurraga, Cooper, Martınez, and Ross, 2016, "Shelter from the Storm: Upgrading Housing Infrastructure in Latin American Slums"](https://wagner.nyu.edu/files/doctoral/ShelterFromTheStorm_(forthcoming%20JUEC).pdf)
 * [Chetty, Raj, Nathaniel Hendren, and Lawrence F. Katz. “The Effects of Exposure to Better Neighborhoods on Children: New Evidence from the Moving to Opportunity Experiment.”](https://www.nber.org/system/files/working_papers/w21156/w21156.pdf) American Economic Review 106, no. 4 (April 2016): 855–902. https://doi.org/10.1257/aer.201505
 * [Dale, S. B., & Krueger, A. B. (2002). Estimating the payoff to attending a more selective college: An application of selection on observables and unobservables. The Quarterly Journal of Economics, 117(4), 1491-1527.](https://cdn.theatlantic.com/static/mt/assets/business/dalekrueger_More_Selective_College.pdf)
