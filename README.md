@@ -32,10 +32,10 @@
 
 ## Libros
 
-* [Hansen](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
-* [Angrist and Piscke's Mostly Harmless](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
+* [Hansen's Econometrics](https://www.ssc.wisc.edu/~bhansen/econometrics/Econometrics.pdf)
+* [Angrist and Piscke's Mostly Harmless Econometrics](https://www.researchgate.net/publication/51992844_Mostly_Harmless_Econometrics_An_Empiricist's_Companion)
 * [Angrist and Piscke's Mastering Metrics site](https://www.masteringmetrics.com/)
-* [Cunningham's Mixtape](https://scunning.com/cunningham_mixtape.pdf)
+* [Cunningham's The Mixtape](https://scunning.com/cunningham_mixtape.pdf)
 * [World Bank's Impact Evaluation in Practice Book](https://www.worldbank.org/en/programs/sief-trust-fund/publication/impact-evaluation-in-practice)
 * [Running randomized evaluations site](http://runningres.com/)
 
